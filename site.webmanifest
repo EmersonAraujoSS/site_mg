@@ -1,0 +1,17 @@
+{
+  "short_name": "MG Instalações",
+  "name": "MG Instalações e Serviços - Soluções Elétricas e Industriais",
+  "description": "Especialistas em instalações elétricas, automação industrial, combate a incêndio e muito mais. Atendemos todo o Brasil.",
+  "icons": [{
+    "src": "LogoMG.svg",
+    "type": "image/svg+xml",
+    "sizes": "any"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b35",
+  "lang": "pt-BR",
+  "scope": "/"
+}
