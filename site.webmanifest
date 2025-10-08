@@ -15,3 +15,11 @@
   "lang": "pt-BR",
   "scope": "/"
 }
+
+
+git init
+git add .
+git commit -m "Site MG Instalações otimizado para SEO"
+git branch -M main
+git remote add origin https://github.com/EmersonAraujoSS/site_mg.git
+git push -u origin main
